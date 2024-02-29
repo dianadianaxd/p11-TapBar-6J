@@ -17,3 +17,16 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Resultado
+-![image](https://github.com/dianadianaxd/p11-TapBar-6J/assets/159160020/46c18c77-754c-44b4-8024-75c1e605cf16)
+-![image](https://github.com/dianadianaxd/p11-TapBar-6J/assets/159160020/f38fb1a7-9f5b-4cdc-8227-aceed2d58f89)
+-![image](https://github.com/dianadianaxd/p11-TapBar-6J/assets/159160020/14b4bd9d-af6f-47f4-b5bf-7157a1c69434)
+-![image](https://github.com/dianadianaxd/p11-TapBar-6J/assets/159160020/b03ab1f0-5c7a-4095-b8b3-c79adca1a272)
+
+##Links de referencia
+-https://codesinsider.com/flutter-tabbar-tabbarview-example-tutorial/?expand_article=1
+
+-https://blog.logrocket.com/flutter-tabbar-a-complete-tutorial-with-examples/
+
+-https://www.freecodecamp.org/news/navigation-in-flutter/
